@@ -2,6 +2,7 @@
 - [abedalavi](https://github.com/abedalavi)
 - [Oluwasemilore Omotade-Michaels](https://github.com/shemigam1)
 - [angrezichatterbox](https://github.com/angrezichatterbox) My First Commit
+- [TJ] (https://github.com/Tijesunimi004)
 - [charlesdzadu](https://github.com/charlesdzadu)
 - [Tony B. Nya](https://github.com/tonybnya)
 - [Rizki Ramadandi](https://github.com/rizkiramadandi)
